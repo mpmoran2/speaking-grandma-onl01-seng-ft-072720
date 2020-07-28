@@ -1,4 +1,3 @@
-input_phrase = "Hi Ba-chan!"
 def speak_to_grandma(phrase)
 # respond with I love you too
     if phrase == "I LOVE YOU GRANDMA!"
@@ -13,7 +12,7 @@ def speak_to_grandma(phrase)
     elsif phrase == phrase.upcase
       return "NO, NOT SINCE 1938!"
     # second time
-    else 
+    else phrase == phrase.upcase
   		return "NO, NOT SINCE 1938!"
     end
 end
