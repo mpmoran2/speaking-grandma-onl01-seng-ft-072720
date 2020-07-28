@@ -9,8 +9,7 @@ def speak_to_grandma(phrase)
       return "NO, NOT SINCE 1938!"
     else phrase == phrase.upcase
   		return "NO, NOT SINCE 1938!"
-  	
-    end
+  	 end
 end
 
 speak_to_grandma("HELLO THERE")
