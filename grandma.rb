@@ -1,4 +1,4 @@
-def speak_to_gradma
+def speak_to_gradma(phrase)
   if phrase != phrase.upcase
     return "HUH?! SPEAK UP, SONNY!"
   elsif phrase.upcase
