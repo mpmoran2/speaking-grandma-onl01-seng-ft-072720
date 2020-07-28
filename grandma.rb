@@ -13,3 +13,7 @@ def speak_to_grandma(phrase)
 end
 
 speak_to_grandma("HELLO THERE")
+
+speak_to_grandma("WHAT DID YOU EAT TODAY?")
+
+speak_to_grandma("WHAT?")
