@@ -1,5 +1,5 @@
 def speak_to_gradma(string)
   if string.upcase
-    return
+    return "HUH?! SPEAK UP, SONNY!"
   
 end
